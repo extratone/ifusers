@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 3000 3000" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="1489.49" cy="1502.91" gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="1516.65">
+<stop offset="0" stop-color="#daa987" stop-opacity="0.945946"/>
+<stop offset="0.929752" stop-color="#3eb0dd" stop-opacity="0.910617"/>
+<stop offset="1" stop-color="#32b0e4"/>
+</radialGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="71.0096" x2="2928.99" y1="1500" y2="1500">
+<stop offset="0.496667" stop-color="#fa9821"/>
+<stop offset="1" stop-color="#e5e5e5"/>
+</linearGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="3000" width="3000" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-2">
+<path d="M-27.161-23.2435L3006.14-23.2435L3006.14 3029.06L-27.161 3029.06L-27.161-23.2435Z" fill="url(#RadialGradient)" fill-rule="nonzero" opacity="1" stroke="#00adef" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.269988"/>
+</g>
+<g id="Layer-1">
+<path d="M1506.08 2091.11C1475.88 2118.81 1421.97 2156.37 1385.45 2175.12L766.795 2492.74C730.372 2511.44 672.136 2509.81 636.873 2489.19L84.3354 2166.1C66.5694 2155.71 66.546 2139.22 84.3947 2129.2L196.888 2066.06C232.495 2046.07 294.328 2034.29 334.845 2039.71L678.722 2085.75C719.306 2091.18 777.757 2074.28 809.108 2048.13L1188.94 1731.36C1236.26 1691.89 1237.87 1626.11 1192.24 1585.53C1192.24 1585.53 1144.33 1536.02 930.557 1370.23C716.788 1204.43 515.434 1085.06 515.434 1085.06C463.457 1052.91 466.902 1007.18 523.575 982.727L667.728 920.522C724.201 896.152 817.663 889.852 877.275 906.673L1701.26 1139.19C1740.63 1150.3 1799 1139.18 1831.58 1114.34C1831.58 1114.34 2295.23 762.101 2360.49 700.052C2425.75 638.002 2616.33 484.587 2706.6 526.417C2706.6 526.417 2841.54 457.69 2898.99 521.087C3043.77 673.358 2617.53 1071.83 2617.53 1071.83L1506.08 2091.11Z" fill="url(#LinearGradient)" fill-rule="evenodd" opacity="0.978682" stroke="none"/>
+</g>
+</svg>
