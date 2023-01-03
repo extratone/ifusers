@@ -4,18 +4,6 @@
 
 Version 1.0 - `01012023-060223`
 
-## The rules for participation in @ifusers.
-
-You can find a revision-tracked version of this document on the group’s GitHub Repository, [here](https://github.com/extratone/ifusers/blob/main/rules.md).
-
-A [parallel version of this document](https://telegra.ph/ifusersMO-Telegram-Chat-Rules-11-30) is also published to Telegram’s longform service, Telegra.ph.
-
-An audio version (TTS) of this document can be heard [here](https://t.me/columbiamo/10825).
-
-<audio controls>
-  <source src="https://github.com/extratone/columbia/raw/main/audio/rulestts.m4a">
-</audio>
-
 1. Our Infinite Flight Telegram Group is a place to discuss current events and culture in a friendly, collegial way. We invite you to be smart, kind, welcoming, funny, charming, incisive, prescient, skeptical: whoever you are on your best day.
 2. Our Infinite Flight Telegram Group should generally be reserved for folks with some level of interest in aviation and/or flight simulation, whom are all welcome regardless of whether or not they can/want to engage in Infinite Flight specifically.
 3. Share news, opinions, personal experiences, charts, data, photos, tweets, and other media. Do not share misinformation, disinformation, or spam — including in DMs to other members.
